@@ -48,7 +48,7 @@ Swagger Documentation: http://localhost:8000/api/documentation
 Frontend (Next.js)
 
 cd frontend
-cp .env.local.example
+cp env.local.example .env.local
 # Isi:
 NEXT_PUBLIC_API_URL=http://127.0.0.1:8000
 
